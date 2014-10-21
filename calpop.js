@@ -8,6 +8,7 @@ CALPOP_ERROR_COUNT = 0;
 EVENTS = new Array();
 EVENT_COUNT = 0;
 
+
 function addCalendarEvent(start_date,start_time,end_date,end_time,time_zone,name,description,color_code){
      var color = 1; //default value
      if(color_code == "blue")
