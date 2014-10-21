@@ -5,6 +5,8 @@
 
 
 
+
+
 CALPOP_ERRORS = new Array();
 CALPOP_ERROR_COUNT = 0;
 EVENTS = new Array();
